@@ -1,6 +1,6 @@
 # Pacticas Intro FrontEnd
 
-En este repositorio se ecuentran mis practicas realizadas de modulo de Intro de FrontEnd del programa LaunchX.
+En este repositorio se ecuentran mis practicas realizadas de modulo del Intro de FrontEnd del programa LaunchX.
 
 
 * [Toma de requerimientos](https://github.com/DanielGomez9/FrontEnd_INTRO/blob/master/Requeriemientos%20ABOGABOT.doc)
